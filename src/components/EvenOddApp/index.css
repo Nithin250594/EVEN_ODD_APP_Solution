@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.Count-Bg {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Count-title {
+  font-size: 48px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+
+.Count-para {
+  font-size: 32px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #334155;
+}
+
+.button-style {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-width: 0px;
+}
+
+.message {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #334155;
+}
